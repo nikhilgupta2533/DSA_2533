@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
