@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
