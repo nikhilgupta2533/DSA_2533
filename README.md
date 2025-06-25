@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2048-build-array-from-permutation](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -34,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
