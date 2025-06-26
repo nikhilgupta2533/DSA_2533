@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0198-house-robber) |
 ## Stack
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0409-longest-palindrome) |
