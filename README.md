@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
+| [0162-find-peak-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0162-find-peak-element) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2048-build-array-from-permutation](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2058-concatenation-of-array) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
