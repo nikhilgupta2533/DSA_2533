@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0141-linked-list-cycle) |
 | [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0961-long-pressed-name) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0409-longest-palindrome) |
 ## Binary Search
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
