@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2048-build-array-from-permutation](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2058-concatenation-of-array) |
+| [2756-buy-two-chocolates](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2756-buy-two-chocolates) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0242-valid-anagram) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2756-buy-two-chocolates](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
+| [2756-buy-two-chocolates](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
