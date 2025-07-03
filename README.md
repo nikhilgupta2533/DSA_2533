@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0198-house-robber) |
+| [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2048-build-array-from-permutation](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2058-concatenation-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2756-buy-two-chocolates](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2756-buy-two-chocolates) |
 ## Math
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
 | [2756-buy-two-chocolates](https://github.com/nikhilgupta2533/DSA_2533/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
