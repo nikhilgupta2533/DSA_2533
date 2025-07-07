@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0198-house-robber) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0160-intersection-of-two-linked-lists) |
