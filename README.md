@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0231-power-of-two) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nikhilgupta2533/DSA_2533/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
@@ -103,8 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
