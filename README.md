@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0287-find-the-duplicate-number) |
 | [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0979-di-string-match](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0979-di-string-match) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0908-middle-of-the-linked-list) |
 | [0961-long-pressed-name](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0961-long-pressed-name) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
