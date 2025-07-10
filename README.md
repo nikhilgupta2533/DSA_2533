@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0198-house-robber) |
 | [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0409-longest-palindrome) |
 ## Binary Search
@@ -108,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
