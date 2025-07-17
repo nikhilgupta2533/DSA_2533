@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0680-valid-palindrome-ii) |
 | [0961-long-pressed-name](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0979-di-string-match) |
+| [3396-valid-word](https://github.com/nikhilgupta2533/DSA_2533/tree/master/3396-valid-word) |
 ## Greedy
 |  |
 | ------- |
