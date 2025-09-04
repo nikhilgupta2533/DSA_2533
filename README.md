@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0979-di-string-match](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0979-di-string-match) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nikhilgupta2533/DSA_2533/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
